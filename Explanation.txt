@@ -1,3 +1,0 @@
-hello from our 
-
-this Project to make a random quote using css html and javascript
